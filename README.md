@@ -18,3 +18,4 @@ Usage
 2. The ne.py file contains the code for tokenisation. The functions can be altered and are extensible for further more programming languages.
 3. To execute the application, run the following command: ```streamlit run Programming_Language.py```
 4. This command will launch a Streamlit web application where you can enter code snippets in Python, C++, or Java and see the lexer output.
+5. The already deployed application can be accessed via: https://compilerdesign-recongising-language.streamlit.app/
